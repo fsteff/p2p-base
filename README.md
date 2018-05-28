@@ -56,6 +56,10 @@ This can be used in various ways, here some ideas:
 - discovery of peers
 - bridging downtime of peers (e.g. for a chat app)
 
+### Protocol Multiplexing
+
+Protocols like [Dat](https://datproject.org) could easily be implemented on top of this.
+
 ### Port forwarding
 
-Needs very high trust, dangerous(!)
+Very powerful, but needs very high trust - dangerous(!)
